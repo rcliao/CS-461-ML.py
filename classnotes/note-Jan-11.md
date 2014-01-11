@@ -1,13 +1,13 @@
 # Definitions:
 
 ## Suervise Learning:
-	**right answer** given
+**right answer** given
 
 ## Regression:
-	Predict Continues valued output
+Predict Continues valued output
 
 ## Classification
-	Discrete valued output (e.g. 0 or 1)
+Discrete valued output (e.g. 0 or 1)
 
 # Note on the Python Matrix
 By using pumpy, python can do matrix calculation quite easily
